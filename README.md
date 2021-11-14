@@ -18,3 +18,9 @@ Find me around the web:
 - GitLab: https://gitlab.com/dashmeet 💻
 - LinkedIn: https://www.linkedin.com/in/dashmeetkaurajmani/ 🖋️
 - Twitter: https://twitter.com/dashmeetajmani 🐦
+
+</br>
+
+> I am looking for summer internship opportunities in Security.\
+> Resume: https://gitlab.com/dashmeet/resume/-/blob/main/DashmeetKaurAjmani_Resume.pdf \
+> Kindly contact me if our interests seem to align.
