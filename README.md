@@ -21,6 +21,7 @@ Find me around the web:
 
 </br>
 
-> I am looking for summer internship opportunities in Security.\
+> I am looking for full time opportunities in Security.\
+> I want to stay closer to code, so I believe Application Security Engineer is the right role for me.
 > Resume: https://gitlab.com/dashmeet/resume/-/blob/main/DashmeetKaurAjmani_Resume.pdf \
 > Kindly contact me if our interests seem to align.
